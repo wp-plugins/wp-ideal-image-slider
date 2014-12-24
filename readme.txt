@@ -19,7 +19,7 @@ As of version 1.0, Please use '[wpideal_slider]' or `<?php echo do_shortcode('[w
 
 = Credits =
 
-This plugin was written by @umakant with help and suggestions from several others including @dataman.
+This plugin was written by Umakant Sonwani with help and suggestions from several others including Dataman Computer Systems Pvt. Ltd..
 
 == Installation ==
 
