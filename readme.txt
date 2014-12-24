@@ -1,5 +1,5 @@
 === DM WP SLIDER ===
-Contributors: Umakant_dataman.
+Contributors: Umakant_dataman
 Donate Link: http://dataman.in/
 Tags: wordpress slider plugin, wordpress slider plugin free, slider plugin wordpress, wordpress image slider plugin, wordpress plugin slider, best wordpress slider plugin, slider wordpress plugin, wordpress sliders, slider plugin for wordpress, free wordpress slider plugins, best free wordpress slider plugin, wp slider plugin, wp slider plugins, slider wp plugin, wp slider plugin free
 Requires at least: 3.0.1
