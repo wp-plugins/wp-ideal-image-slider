@@ -1,5 +1,5 @@
 === DM WP SLIDER ===
-Contributors: Dataman Computer Systems Pvt. Ltd.
+Contributors: Umakant_dataman, Dataman Computer Systems Pvt. Ltd.
 Donate Link: http://dataman.in/
 Tags: slider, image, responsive, simple slider,Bxslider
 Requires at least: 3.0.1
