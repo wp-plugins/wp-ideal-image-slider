@@ -1,8 +1,8 @@
 <?php
 /*
     Plugin Name: WP Ideal Image Slider
-    Description: Responsive Simple WordPress Slider Plugin of Ideal Image Slider is written in bxslider.js and has no dependancies.Thanks for <a href="http://bxslider.com/">Bxslider</a> to give extremely best Solution.
-    Author: Umakant Sonwani
+    Description: Responsive Simple WordPress Slider Plugin is written in bxslider.js and has no dependancies.Thanks for <a href="http://bxslider.com/">Bxslider</a> to give extremely best Solution.
+    Author: umakant_dataman
     Version: 1.0
     Author URI: http://dataman.in
 	License: GPLv2
