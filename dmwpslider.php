@@ -4,7 +4,7 @@
     Description: Responsive Simple WordPress Slider Plugin is written in bxslider.js and has no dependancies.Thanks for <a href="http://bxslider.com/">Bxslider</a> to give extremely best Solution.
     Author: umakant_dataman
     Version: 1.0
-    Author URI: http://dataman.in
+    Author URI: https://profiles.wordpress.org/umakant_dataman
 	License: GPLv2
 */
 
