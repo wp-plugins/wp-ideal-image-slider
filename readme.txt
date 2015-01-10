@@ -11,8 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This is Responsive Simple WordPress Slider Plugin is written in Bxslider.js and with [wpideal_slider] shortcode. Which outputs a [slider] (http://bxslider.com/) from [stevenwanderski] (http://stevenwanderski.com/) using the shortcode '[wpideal_slider]'.
-
+This is Responsive Simple WordPress Slider Plugin is written in Bxslider.js and with [wpideal_slider] shortcode. 
 
 = Shortcode Options =
 As of version 1.0, Please use '[wpideal_slider]' or `<?php echo do_shortcode('[wpideal_slider]'); ?>` shortcodes.
